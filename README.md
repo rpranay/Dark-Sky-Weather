@@ -4,4 +4,4 @@ The data is fetched from Dark Sky API using retrofit2.
 Room database is used to cache the data.
 This application follows MVVM architecture styke.
 
-![Screenshot](https://raw.githubusercontent.com/rpranay/Dark-Sky-Weather/master/Screenshot_20190918-183024_Dark%20Sky%20Weather.jpg)
+<img src="https://raw.githubusercontent.com/rpranay/Dark-Sky-Weather/master/Screenshot_20190918-183024_Dark%20Sky%20Weather.jpg" width="200px" >
